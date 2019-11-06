@@ -7,4 +7,6 @@ The Spatial-Temporal Change in the Environment Context (STCEC) is a dataset that
 * Heterogeneous with change: This subgroup contains patches with multiple environmental classes that change over the time period. (./hec)
 * Heterogeneous without change: This subgroup contains patches with contains multiple environmental classes that does not change over the time period. (./henc)
 
+The three subdirectories under each directory refer to the timesteps (1,2 or 3).
+
 STCEC was built using Landsat images and SLATS data.
